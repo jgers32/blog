@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+[Julia Gersey][julia-gersey] is an undergraduate Computer Science and Applied Math Student. She enjoys building various IoT projects, rock climbing, and coffee.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+*Proudest accomplishment*: Summiting [Old Rag Mountain][old-rag-mtn] at 3,284 feet via a 9 mile hike and rock scramble. It was an extreme mental and physical challenge, making it my favorite hike by far. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+![Julia-Gersey](/blog/asset/images/julia-hiking.png){:class="img-responsive" : width="45%" }
 
-
-[jekyll-organization]: https://github.com/jekyll
+[julia-gersey]: https://juliagersey.com
+[old-rag-mtn]: https://www.nps.gov/places/old-rag.htm

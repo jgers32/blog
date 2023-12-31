@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "A Blog?"
+date:   2023-12-30 18:15:03 -0500
+categories: intro
+---
+Yep, a blog. Believe it or not, not everything I type on my computer is code. Instead, it has been 
+scholarship applications, research papers, REU opportunities, and lately, PhD programs. But, beyond my academic-related work, 
+I genuinely enjoy writing and am fortunate to enjoy my hobby by serving as a department editor for the [ACM XRDS Magazine][acm-xrds].
+
+What is the purpose of my blog?
+
+1. Help others
+
+
+That's it - whether it is helping a computer science student find an REU opportunity for the summer, helping somebody with a Raspberry Pi project, 
+or helping someone understand how grad school admissions work. We all stand on the shoulders of giants, and have needed help at some point in time. I have learned tremendously from other blogs, forums, and articles during my journey, and it would be truly fulfilling if I could give back my knowledge to others. If someone can gain something from what I write, my job is complete.
+
+The first few will focus on (1) finding an REU opportunity, as I just helped ~15 students with their applications via Reddit, and (2) the process of applying to PhD programs, since I recently went through this and 
+have gotten some acceptances. Beyond that, various topics like creating a portfolio website, various IoT projects, and modifying 3D printers for improved performance are topics I would like to write about.
+
+Cheers to 2024! 
+
+[acm-xrds]: https://xrds.acm.org
