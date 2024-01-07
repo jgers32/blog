@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "A Blog?"
+title: "A Blog?"
+subtitle: "Why on earth is Julia starting a blog?"
 date:   2023-12-30 18:15:03 -0500
-categories: intro
+background: '/asset/images/teaching.png'
 ---
 Yep, a blog. Believe it or not, not everything I type on my computer is code. Instead, it has been 
 scholarship applications, research papers, REU opportunities, and lately, PhD programs. But, beyond my academic-related work, 
