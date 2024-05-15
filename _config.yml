@@ -21,7 +21,7 @@ author: Julia Gersey
 title: Julia Gersey's Blog
 email: juliagersey@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Julia Gersey's blog on academics, projects, and miscellaneous relating to computer science. 
+  Julia Gersey's blog on academics, projects, and miscellaneous relating to computer science & engineering. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: juliagersey
@@ -30,10 +30,16 @@ baseurl: "/blog"
 production_url : https://jgers32.github.io.com/blog
 BASE_PATH : http://juliagersey.com/blog
 
+# TODO: switch font to: 
+#  font-family: ui-sans-serif,system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, Noto Sans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
 # Build settings
 # theme: minima
-#theme: jekyll-theme-clean-blog
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+
+# toggle these (top = dev, bottom = prod)
+theme: jekyll-theme-clean-blog
+#remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+
 plugins:
   - jekyll-feed
 

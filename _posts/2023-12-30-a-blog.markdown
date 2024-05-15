@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "A Blog?"
+title: "A Blog?!"
 subtitle: "Why on earth is Julia starting a blog?"
 date:   2023-12-30 18:15:03 -0500
-background: '/asset/images/reu.png'
+background: '/asset/images/teaching.png'
 ---
 Yep, a blog. While I work on my computer daily, not every keystroke translates to code or homework. Instead, it's been scholarship applications, research papers, REU opportunities, and lately, PhD programs. Beyond my academic-related work, I enjoy writing and volunteer as a department editor for the [ACM XRDS Magazine][acm-xrds].
 
