@@ -37,8 +37,8 @@ BASE_PATH : http://juliagersey.com/blog
 # theme: minima
 
 # toggle these (top = dev, bottom = prod)
-#theme: jekyll-theme-clean-blog
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+theme: jekyll-theme-clean-blog
+#remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
 plugins:
   - jekyll-feed
