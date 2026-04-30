@@ -4,6 +4,9 @@ title: "Advice: CS REU applications"
 subtitle: "How, when, & why apply to Computer Science REUs"
 date:   2024-01-17 14:20:18  -0500
 background: '/asset/images/reu.png'
+tags:
+    - academia
+    - reu
 ---
 ## My Background
 Before we begin, let me preface with introducing myself and explaining why I'm writing this post. In undergrad, the summer before my senior year, I applied for 10 programs and was accepted into 7. This is an unusually high acceptance rate, and since then, I have been helping students with their own applications. I just helped ~15 students with their applications, and figured making a general guide would serve me well in the future. To start, my "stats" (which people seem to care about, but you should keep in perspective everyone is different), were the following:

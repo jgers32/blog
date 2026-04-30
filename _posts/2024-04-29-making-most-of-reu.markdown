@@ -4,6 +4,9 @@ title: "I got an REU - now what?"
 subtitle: "How to make the most out of your REU experience"
 date:   2024-04-28 13:12:12 -0500
 background: '/asset/images/hcii.png'
+tags:
+    - academia
+    - reu
 ---
 ## Now what?
 So you got into an REU program – congrats! Now, what do you do? (1) celebrate and (2) plan. You should take the time to celebrate your achievement, especially since an REU is a huge stepping stone [to grad school][reu], admission is getting increasingly hard with every cycle, and this accomplishment speaks to where you have been and where you are going. But, I must admit that was probably the easiest part of your REU. While reflecting on my REU experience, I believe you could take two paths from here: the river or the mountain.

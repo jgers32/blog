@@ -1,0 +1,28 @@
+---
+---
+
+@import "styles";
+
+.post-tags {
+  margin: 0.4rem 0 1rem;
+}
+
+.tag-chip {
+  display: inline-block;
+  margin: 0.15rem 0.45rem 0.15rem 0;
+  padding: 0.2rem 0.55rem;
+  border: 1px solid #6c757d;
+  border-radius: 999px;
+  color: #495057;
+  font-size: 0.82rem;
+  line-height: 1.2;
+  text-decoration: none;
+  transition: all 0.15s ease;
+}
+
+.tag-chip:hover,
+.tag-chip:focus {
+  background-color: #495057;
+  color: #ffffff;
+  text-decoration: none;
+}

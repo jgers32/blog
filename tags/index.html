@@ -1,0 +1,40 @@
+---
+layout: page
+title: Tags
+description: Browse posts by topic
+background: '/asset/images/ovation-fav.png'
+permalink: /tags/
+---
+
+{% if site.tags.size > 0 %}
+  {% assign sorted_tags = site.tags | sort %}
+
+  <div class="mb-4">
+    {% for tag in sorted_tags %}
+      {% assign tag_name = tag[0] %}
+      {% assign tag_posts = tag[1] %}
+      <a class="tag-chip" href="#{{ tag_name | slugify }}">#{{ tag_name }} ({{ tag_posts.size }})</a>
+    {% endfor %}
+  </div>
+
+  {% for tag in sorted_tags %}
+    {% assign tag_name = tag[0] %}
+    {% assign tag_posts = tag[1] %}
+    <section id="{{ tag_name | slugify }}" class="mb-5">
+      <h3>#{{ tag_name }}</h3>
+      {% for post in tag_posts %}
+      <article class="post-preview">
+        <a href="{{ post.url | relative_url }}">
+          <h4 class="post-title mb-1">{{ post.title }}</h4>
+          {% if post.subtitle %}
+          <p class="post-subtitle mb-1">{{ post.subtitle }}</p>
+          {% endif %}
+        </a>
+        <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+      </article>
+      {% endfor %}
+    </section>
+  {% endfor %}
+{% else %}
+  <p>No tags yet. Add tags in a post front matter block to see them here.</p>
+{% endif %}
